@@ -6,3 +6,9 @@ firebase_config.json
 .env
 *.log
 notifications.json
+
+# original working copies, duplicated under firmware/ and docs/
+ESP32/
+ardunio_code/
+*.pptx
+!docs/*.pptx
