@@ -1,3 +1,12 @@
+<!-- banner:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
+    <img alt="AgriSmart: ESP32 soil sensing, Arduino pump control and a live Firebase dashboard for smart irrigation." src=".github/assets/banner-light.svg" width="100%">
+  </picture>
+</p>
+<!-- banner:end -->
+
 # AgriSmart: ESP32 Smart Irrigation
 
 Closed-loop soil-moisture irrigation for small farms and gardens: an ESP32 measures the soil, an Arduino UNO switches the pump, Firebase Realtime Database carries state both ways, and a Streamlit dashboard lets the grower watch, control and automate watering from any browser.
